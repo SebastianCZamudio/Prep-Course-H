@@ -1,2 +1,1 @@
-# Prep-Course-H
-repositorio prueba modulo 2
+este es un proyecto es una prueba de como crear un repositorio desde GitHub y clonarlo a la computadora
